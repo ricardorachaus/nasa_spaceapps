@@ -13,8 +13,21 @@
 		3D0E4960217B1755000D4924 /* tela-iphone-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E495D217B1755000D4924 /* tela-iphone-3.png */; };
 		3D0E4961217B1755000D4924 /* tela-iphone-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E495E217B1755000D4924 /* tela-iphone-1.png */; };
 		3D0E4962217B1755000D4924 /* tela-iphone-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E495F217B1755000D4924 /* tela-iphone-2.png */; };
+		3D0E4965217B1BAF000D4924 /* tufao.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E4963217B1BAF000D4924 /* tufao.png */; };
+		3D0E4966217B1BAF000D4924 /* alagamento.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E4964217B1BAF000D4924 /* alagamento.png */; };
+		3D0E4972217B1CB1000D4924 /* icone-06.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E4968217B1CB0000D4924 /* icone-06.png */; };
+		3D0E4973217B1CB1000D4924 /* icone-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E4969217B1CB0000D4924 /* icone-10.png */; };
+		3D0E4974217B1CB1000D4924 /* icone-03.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E496A217B1CB0000D4924 /* icone-03.png */; };
+		3D0E4975217B1CB1000D4924 /* icone-07.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E496B217B1CB1000D4924 /* icone-07.png */; };
+		3D0E4976217B1CB1000D4924 /* icone-02.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E496C217B1CB1000D4924 /* icone-02.png */; };
+		3D0E4977217B1CB1000D4924 /* icone-04.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E496D217B1CB1000D4924 /* icone-04.png */; };
+		3D0E4978217B1CB1000D4924 /* icone-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E496E217B1CB1000D4924 /* icone-01.png */; };
+		3D0E4979217B1CB1000D4924 /* icone-05.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E496F217B1CB1000D4924 /* icone-05.png */; };
+		3D0E497A217B1CB1000D4924 /* icone-08.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E4970217B1CB1000D4924 /* icone-08.png */; };
+		3D0E497B217B1CB1000D4924 /* icone-09.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0E4971217B1CB1000D4924 /* icone-09.png */; };
+		3D0E4981217B20A5000D4924 /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0E4980217B20A5000D4924 /* ChecklistViewController.swift */; };
+		3D0E4983217B20F5000D4924 /* DisasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0E4982217B20F5000D4924 /* DisasterViewController.swift */; };
 		3DA97D8B217B1717004396B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA97D8A217B1717004396B5 /* AppDelegate.swift */; };
-		3DA97D8D217B1717004396B5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA97D8C217B1717004396B5 /* ViewController.swift */; };
 		3DA97D92217B1718004396B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DA97D91217B1718004396B5 /* Assets.xcassets */; };
 		3DA97D95217B1718004396B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DA97D93217B1718004396B5 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -26,9 +39,22 @@
 		3D0E495D217B1755000D4924 /* tela-iphone-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tela-iphone-3.png"; sourceTree = "<group>"; };
 		3D0E495E217B1755000D4924 /* tela-iphone-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tela-iphone-1.png"; sourceTree = "<group>"; };
 		3D0E495F217B1755000D4924 /* tela-iphone-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tela-iphone-2.png"; sourceTree = "<group>"; };
+		3D0E4963217B1BAF000D4924 /* tufao.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tufao.png; sourceTree = "<group>"; };
+		3D0E4964217B1BAF000D4924 /* alagamento.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alagamento.png; sourceTree = "<group>"; };
+		3D0E4968217B1CB0000D4924 /* icone-06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-06.png"; sourceTree = "<group>"; };
+		3D0E4969217B1CB0000D4924 /* icone-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-10.png"; sourceTree = "<group>"; };
+		3D0E496A217B1CB0000D4924 /* icone-03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-03.png"; sourceTree = "<group>"; };
+		3D0E496B217B1CB1000D4924 /* icone-07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-07.png"; sourceTree = "<group>"; };
+		3D0E496C217B1CB1000D4924 /* icone-02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-02.png"; sourceTree = "<group>"; };
+		3D0E496D217B1CB1000D4924 /* icone-04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-04.png"; sourceTree = "<group>"; };
+		3D0E496E217B1CB1000D4924 /* icone-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-01.png"; sourceTree = "<group>"; };
+		3D0E496F217B1CB1000D4924 /* icone-05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-05.png"; sourceTree = "<group>"; };
+		3D0E4970217B1CB1000D4924 /* icone-08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-08.png"; sourceTree = "<group>"; };
+		3D0E4971217B1CB1000D4924 /* icone-09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icone-09.png"; sourceTree = "<group>"; };
+		3D0E4980217B20A5000D4924 /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
+		3D0E4982217B20F5000D4924 /* DisasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisasterViewController.swift; sourceTree = "<group>"; };
 		3DA97D87217B1717004396B5 /* Space Apps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Space Apps.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DA97D8A217B1717004396B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3DA97D8C217B1717004396B5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3DA97D91217B1718004396B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DA97D94217B1718004396B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DA97D96217B1718004396B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -48,11 +74,42 @@
 		3D0E495C217B174E000D4924 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				3D0E4967217B1CA4000D4924 /* Icons */,
+				3D0E4964217B1BAF000D4924 /* alagamento.png */,
+				3D0E4963217B1BAF000D4924 /* tufao.png */,
 				3D0E495E217B1755000D4924 /* tela-iphone-1.png */,
 				3D0E495F217B1755000D4924 /* tela-iphone-2.png */,
 				3D0E495D217B1755000D4924 /* tela-iphone-3.png */,
 			);
 			path = Images;
+			sourceTree = "<group>";
+		};
+		3D0E4967217B1CA4000D4924 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				3D0E496E217B1CB1000D4924 /* icone-01.png */,
+				3D0E496C217B1CB1000D4924 /* icone-02.png */,
+				3D0E496A217B1CB0000D4924 /* icone-03.png */,
+				3D0E496D217B1CB1000D4924 /* icone-04.png */,
+				3D0E496F217B1CB1000D4924 /* icone-05.png */,
+				3D0E4968217B1CB0000D4924 /* icone-06.png */,
+				3D0E496B217B1CB1000D4924 /* icone-07.png */,
+				3D0E4970217B1CB1000D4924 /* icone-08.png */,
+				3D0E4971217B1CB1000D4924 /* icone-09.png */,
+				3D0E4969217B1CB0000D4924 /* icone-10.png */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		3D0E4984217B2105000D4924 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3D0E4957217B172F000D4924 /* CountryViewController.swift */,
+				3D0E4958217B172F000D4924 /* FormViewController.swift */,
+				3D0E4980217B20A5000D4924 /* ChecklistViewController.swift */,
+				3D0E4982217B20F5000D4924 /* DisasterViewController.swift */,
+			);
+			path = "View Controllers";
 			sourceTree = "<group>";
 		};
 		3DA97D7E217B1717004396B5 = {
@@ -74,12 +131,10 @@
 		3DA97D89217B1717004396B5 /* Space Apps */ = {
 			isa = PBXGroup;
 			children = (
+				3D0E4984217B2105000D4924 /* View Controllers */,
 				3D0E495C217B174E000D4924 /* Images */,
 				3DA97D8A217B1717004396B5 /* AppDelegate.swift */,
-				3D0E4957217B172F000D4924 /* CountryViewController.swift */,
-				3D0E4958217B172F000D4924 /* FormViewController.swift */,
 				3D0E4956217B172E000D4924 /* Main.storyboard */,
-				3DA97D8C217B1717004396B5 /* ViewController.swift */,
 				3DA97D91217B1718004396B5 /* Assets.xcassets */,
 				3DA97D93217B1718004396B5 /* LaunchScreen.storyboard */,
 				3DA97D96217B1718004396B5 /* Info.plist */,
@@ -145,12 +200,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D0E4978217B1CB1000D4924 /* icone-01.png in Resources */,
 				3DA97D95217B1718004396B5 /* LaunchScreen.storyboard in Resources */,
 				3D0E4961217B1755000D4924 /* tela-iphone-1.png in Resources */,
+				3D0E497B217B1CB1000D4924 /* icone-09.png in Resources */,
+				3D0E4966217B1BAF000D4924 /* alagamento.png in Resources */,
+				3D0E497A217B1CB1000D4924 /* icone-08.png in Resources */,
+				3D0E4972217B1CB1000D4924 /* icone-06.png in Resources */,
+				3D0E4965217B1BAF000D4924 /* tufao.png in Resources */,
+				3D0E4973217B1CB1000D4924 /* icone-10.png in Resources */,
 				3DA97D92217B1718004396B5 /* Assets.xcassets in Resources */,
 				3D0E4960217B1755000D4924 /* tela-iphone-3.png in Resources */,
 				3D0E4959217B172F000D4924 /* Main.storyboard in Resources */,
+				3D0E4975217B1CB1000D4924 /* icone-07.png in Resources */,
 				3D0E4962217B1755000D4924 /* tela-iphone-2.png in Resources */,
+				3D0E4974217B1CB1000D4924 /* icone-03.png in Resources */,
+				3D0E4977217B1CB1000D4924 /* icone-04.png in Resources */,
+				3D0E4976217B1CB1000D4924 /* icone-02.png in Resources */,
+				3D0E4979217B1CB1000D4924 /* icone-05.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,9 +229,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D0E495A217B172F000D4924 /* CountryViewController.swift in Sources */,
-				3DA97D8D217B1717004396B5 /* ViewController.swift in Sources */,
+				3D0E4981217B20A5000D4924 /* ChecklistViewController.swift in Sources */,
 				3D0E495B217B172F000D4924 /* FormViewController.swift in Sources */,
 				3DA97D8B217B1717004396B5 /* AppDelegate.swift in Sources */,
+				3D0E4983217B20F5000D4924 /* DisasterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ChecklistViewController.swift
 //  Space Apps
 //
 //  Created by Ricardo Rachaus on 20/10/18.
@@ -8,13 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ChecklistViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-
+    
 }
-

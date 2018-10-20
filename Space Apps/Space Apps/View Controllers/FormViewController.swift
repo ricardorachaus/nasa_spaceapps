@@ -78,6 +78,7 @@ class FormViewController: UIViewController {
     @objc func pressedReturnDone() {
         returnDatePicker.resignFirstResponder()
         returnTextField.resignFirstResponder()
+        performSegue(withIdentifier: "Disaster", sender: self)
     }
     
     
